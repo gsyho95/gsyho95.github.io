@@ -110,7 +110,7 @@ author:
   name             : "Yongho Yoon"
   avatar           : "/assets/yyhavatar.jpg"
   bio              : "I am studying **statistics**."
-  location         : "Seoul National University."
+  location         : "Seoul National University"
   email            : "gsyho95@snu.ac.kr"
   links:
     - label: "Email"
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/gsyho95"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/gsyho95"
 
 # Site Footer
 footer:
