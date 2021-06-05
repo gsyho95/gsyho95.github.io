@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "YonghoYoon"
-  avatar           : "/assets/images/"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/yyhavatar.jpg"
+  bio              : "I am studying **statistics**."
   location         : "Seoul National University."
   email            : "gsyho95@snu.ac.kr"
   links:
