@@ -113,9 +113,9 @@ author:
   location         : "Seoul National University"
   email            : "gsyho95@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gsyho95@snu.ac.kr
+    - #label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:gsyho95@snu.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "github.io.gsyho95"
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/gsyho95"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gsyho95"
+      # url: "https://instagram.com/yongho_recovered"
 
 # Site Footer
 footer:
